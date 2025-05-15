@@ -5,7 +5,7 @@
  👯 I’m looking to collaborate with other Data analyst on Data Projects
  💬 Ask me about Data analytics and Visualizations
  📫 How to reach me: https://www.linkedin.com/in/samad-dere
-  ⚡ Fun fact: I enjoy sports alot
+  
 
 <!--
 **deresamad/deresamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
