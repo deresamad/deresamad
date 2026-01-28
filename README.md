@@ -16,7 +16,7 @@
 I’m a data analyst passionate about turning complex data into actionable insights. I specialize in building dashboards that get used, automating repetitive tasks, 
 and creating models that help businesses plan for the future.
 I love exploring new tools and techniques, uncovering hidden trends, and delivering insights that make a real impact. 
-The “aha!” moment—when data tells a clear, useful story—is what drives me every day.
+The “aha!” moment when data tells a clear, useful story is what drives me every day.
 Outside of work, I enjoy staying active and exploring ideas beyond data, always learning and experimenting to grow my skills.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
