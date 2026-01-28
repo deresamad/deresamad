@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy staying active, and exploring new ideas outside of work, learning new tools. I love the "aha!" moment when data reveals something new and useful.
+I’m a data analyst passionate about turning complex data into actionable insights. I specialize in building dashboards that get used, automating repetitive tasks, 
+and creating models that help businesses plan for the future.
+I love exploring new tools and techniques, uncovering hidden trends, and delivering insights that make a real impact. 
+The “aha!” moment—when data tells a clear, useful story—is what drives me every day.
+Outside of work, I enjoy staying active and exploring ideas beyond data, always learning and experimenting to grow my skills.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
